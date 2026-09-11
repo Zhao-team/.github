@@ -12,6 +12,6 @@ This repository maintains the group's public pipeline collection. Project code s
 
 Keep authorship, citations, and original source links intact. Link a tagged release or archived version when the paper has a fixed code release. Shared links avoid maintaining duplicate copies of a member's repository.
 
-Members can suggest changes through a pull request or an issue. For help with the collection, contact [Naomi Ding](https://github.com/Naomi-Ding) · [Xinyuan Tian](https://github.com/xt83) · [Yifei Zhang](https://github.com/Yifeizhang-Yale).
+Members can suggest changes through a pull request or an issue.
 
 For questions about a particular pipeline, use its source repository's issues and contribution guidance.
