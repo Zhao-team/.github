@@ -1,4 +1,4 @@
-<p><strong>ZHAO LAB · YALE UNIVERSITY</strong></p>
+<p><strong>YIZE ZHAO TEAM · YALE UNIVERSITY</strong></p>
 
 # Pipelines & tools
 
